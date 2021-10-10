@@ -1,1 +1,0 @@
-# PGI-Inventory-Management-System
